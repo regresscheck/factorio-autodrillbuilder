@@ -1,11 +1,11 @@
 {
-    "name": "AIBuilder",
+    "name": "AutoDrillBuilder",
     "version": "0.1.0",
-    "title": "AI Builder",
+    "title": "Automatic Drill Builder",
     "author": "regresscheck",
     "contact": "",
     "homepage": "",
     "factorio_version": "0.16",
     "dependencies": ["base >= 0.16"],
-    "description": "AI Builder"
+    "description": "Automatic Drill Builder"
 }
